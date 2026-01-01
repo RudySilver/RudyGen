@@ -71,3 +71,8 @@ License
 
 MIT License
 Use it, modify it, share it  just keep building.
+
+
+## Support
+
+If you love RudyGuard, star ⭐ the repo and share it!
