@@ -9,7 +9,8 @@ BAR_EMPTY = "░"
 
 HUMAN_WORDS = [
     "Falcon", "Raven", "Nova", "Cipher", "Shadow",
-    "Iron", "Pixel", "Storm", "Echo", "Lunar"
+    "Iron", "Pixel", "blow", "Echo", "Lunar", "user",
+    "blame", "silk", "roadster" "Bikini89",
 ]
 
 def human_password():
